@@ -1,0 +1,11 @@
+ver 1.0
+
+build in 2017.10.01
+
+-----------------------------------------------------------------------
+
+written by Alex Hsu
+
+alex9810171@gmail.com
+
+solved the problem when cards below 1 will have a core dump in CardTest_i86pc-sample.
